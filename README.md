@@ -1,4 +1,4 @@
-### Seja Bem vindo!! Eu sou Lucas Carvalho da Silva👨‍💻
+### Seja Bem vindo!! Eu sou Lucas Carvalho da Silva
 ##
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=transparent)
 
