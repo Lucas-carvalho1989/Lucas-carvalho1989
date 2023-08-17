@@ -2,6 +2,7 @@
 ##
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=transparent)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-carvalho1989&layout=compact&theme=transparent)
 ##
  #### Tecnologias que utilizo diariamente!!👨‍💻
  ##
