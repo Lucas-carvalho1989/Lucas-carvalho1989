@@ -1,7 +1,7 @@
 ### Seja Bem vindo!! Eu sou Lucas Carvalho da Silva👨‍💻
 ##
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-carvalho1989&hide_progress=true)
+
 ##
 
  #### Tecnologias que utilizo diariamente!!
