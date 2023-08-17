@@ -1,10 +1,9 @@
-### Seja Bem vindo!! Eu sou Lucas Carvalho da Silva
+### Seja Bem vindo!! Eu sou Lucas Carvalho da Silva✌🤝
 ##
+
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=transparent)
-
 ##
-
- #### Tecnologias que utilizo diariamente!!
+ #### Tecnologias que utilizo diariamente!!👨‍💻
  ##
 
 <div style="display: inline_block"><br>
@@ -16,7 +15,7 @@
 </div>
 
   ##
-  #### Vamos conversar!!
+  #### Vamos conversar!!📧💬🐱‍💻
   ##
 <div> 
  <a href="https://discord.com/channels/1141688809516433448/1141688810145591328" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
