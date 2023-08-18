@@ -1,6 +1,7 @@
-<img align="right" width="330em" height="590em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg"> 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;I+am+Lucas+Carvalho+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<img align="right" width="330em" height="590em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg"> 
 
 #
 <div align="left" valign="top"><br>
