@@ -1,10 +1,12 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)
+<h1 align="left">Hi , I'm Lucas Carvalho</h1>
 
 
 <img align="right" width="300em" height="540em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg"> 
 
-#
+# <h3> 🛠 &nbsp;Tech Stack </h3>
+
 <div align="left" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
