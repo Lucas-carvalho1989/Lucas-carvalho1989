@@ -1,4 +1,4 @@
-<img align="right" width="350em" height="590em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg"> 
+<img align="right" width="300em" height="590em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg"> 
  <h1 align="left">Hi👋, I'm Lucas Carvalho da Silva</h1>
  
 #
@@ -19,7 +19,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=radical)
+![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=radical)
 
 <div  align="left"> 
  <a  href="https://discord.com/channels/1141688809516433448/1141688810145591328" target="_blank"><img   src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
