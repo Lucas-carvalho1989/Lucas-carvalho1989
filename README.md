@@ -2,9 +2,6 @@
  <h1 align="left">Hi👋, I'm Lucas Carvalho da Silva</h1>
  
 #
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-carvalho1989&layout=compact&theme=radical)
- 
 <div align="left" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -19,7 +16,10 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
+#
+
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-carvalho1989&layout=compact&theme=radical)
 
 <div  align="left"> 
  <a  href="https://discord.com/channels/1141688809516433448/1141688810145591328" target="_blank"><img   src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
