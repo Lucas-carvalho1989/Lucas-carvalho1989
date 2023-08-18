@@ -26,7 +26,7 @@
 
 <br><br>
 
-  ## Contact!
+  ## 📧 Contact!
   ##
 <div> 
  <a href="https://discord.com/channels/1141688809516433448/1141688810145591328" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
