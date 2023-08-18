@@ -1,5 +1,7 @@
-<!--<img align="right" height="590em" src="(https://github.com/Lucas-carvalho1989/Lucas-carvalho1989/assets/126892066/5a972226-f1e7-4d19-b5bb-e1bea07992b1"/> 
- ![lucasgithub2](https://github.com/Lucas-carvalho1989/Lucas-carvalho1989/assets/126892066/5a972226-f1e7-4d19-b5bb-e1bea07992b1) -->
+<img align="right" height="590em"
+ src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/a31cef0576c9e4e3eb2520cdfb28e90d/raw/5034dd2f848eba8095ce170f4b7f30033b4a7268/githubcard.svg
+"/> 
+ 
 <h1 align="left">Hi👋, I'm Lucas Carvalho da Silva</h1>
 
 <p align="center">
