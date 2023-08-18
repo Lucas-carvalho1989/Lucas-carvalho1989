@@ -16,10 +16,11 @@
 </div>
 
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-carvalho1989&layout=compact&theme=radical)
 <p align="left">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Lucas-carvalho1989&show_icons=true&theme=vision-friendly-dark" alt="lucas stats"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-carvalho1989&layout=compact&theme=vision-friendly-dark" alt="lucas most languages"/>
 </p>
+
 
 #
 <div  align="left"> 
