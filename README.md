@@ -1,6 +1,5 @@
 <img align="right" height="590em"
- src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/a31cef0576c9e4e3eb2520cdfb28e90d/raw/5034dd2f848eba8095ce170f4b7f30033b4a7268/githubcard.svg
-"/> 
+ src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg"> 
  
 <h1 align="left">Hi👋, I'm Lucas Carvalho da Silva</h1>
 
