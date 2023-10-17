@@ -1,19 +1,22 @@
  
-<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="150px" />
 
 
 <h1 align="left">Hi , I'm Lucas Carvalho </h1> 
   
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile;)](https://git.io/typing-svg)-->
 
- <img align="right" width="300em" height="540em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg">  
+ <img align="right" width="300em" height="540em" src="https://raw.githubusercontent.com/gist/Lucas-carvalho1989/7faea92c67d6f2b295b93f376969d9f7/raw/e73f9bfba3a0abd3160bf2b31cafbde173729790/lu.svg">   
   
 
-# <h3> 🛠  🔭 Hard-Skills </h3>
 
 <div align="left" valign="top"><br>
  
+ 
+
+# <h3> 🛠  🔭 Hard-Skills </h3>
  - #### Frontend
+    
  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -54,10 +57,36 @@
   
 </div>
 <div align="center">
-
+ 
 
  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) 
   
 </div>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg) -->
+<img src="https://github.com/Dineshkarthik/Dineshkarthik/raw/master/assets/cover.jpg" alt="" style="max-width: 100%;">
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/imgs/bottom_header.svg" alt="" style="max-width: 100%;">
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Staying+focused+and+dedication;is+the+vision+for+a+bright+future)](https://git.io/typing-svg)
+##backend
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+    ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+    ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+    - #### Frontend
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+    ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+    ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+    ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+    ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+    ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+    #gif de guerreiros 
+    <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+
+
+-->
